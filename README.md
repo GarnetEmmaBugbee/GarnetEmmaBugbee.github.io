@@ -1,7 +1,7 @@
 This is my resume! Feel free to download it!
 
 ![Garnet's Resume]
-(https://garnetemmabugbee.github.io/images/resume)
+(https://github.com/GarnetEmmaBugbee/GarnetEmmaBugbee.github.io/blob/master/images/resume.png)
 
 ![Second page]
-(https://garnetemmabugbee.github.io/images/second)
+(https://github.com/GarnetEmmaBugbee/GarnetEmmaBugbee.github.io/blob/master/images/second.png)
